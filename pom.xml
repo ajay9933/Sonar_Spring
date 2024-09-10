@@ -12,9 +12,9 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <sonar.organization>ajay9933</sonar.organization>
+    <sonar.organization>ajay-hibernate</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <sonar.projectKey>org.example:Sonar_Integration</sonar.projectKey>
+    <sonar.projectKey>ajay-hibernate_spring-hibernate</sonar.projectKey>
     <sonar.coverage.jacoco.xmlReportPaths>target/site/jacoco/jacoco.xml</sonar.coverage.jacoco.xmlReportPaths>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
